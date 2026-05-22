@@ -15,3 +15,9 @@ Le résultat produit est un fichier CSV séparateur ";", UTF-8, texte entre guil
 - nombre de fichiers
 - poids total (Mo)
 - extensions
+
+## License
+
+Licensed under the Apache License 2.0.
+
+Copyright (c) 2026 Archives nationales du monde du travail
